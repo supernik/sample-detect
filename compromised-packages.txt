@@ -27,7 +27,8 @@
 # ========================================================================
 
 # Popular packages with 2+ billion weekly downloads affected
-ixchel@3.13.1
+System.Drawing.Common:5.0.0
+ixchel:3.13.1
 ansi-regex:6.2.1
 ansi-styles:6.2.2
 backslash:0.2.1
